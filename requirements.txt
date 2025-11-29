@@ -1,7 +1,13 @@
-streamlit
-pandas
-plotly
-python-dotenv
 langchain
 langchain-community
 langchain-groq
+python-dotenv
+pydantic
+typing
+
+streamlit
+pandas
+plotly
+
+
+
